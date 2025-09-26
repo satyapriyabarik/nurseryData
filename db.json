@@ -1,4 +1,4 @@
-[
+{"initialPlants":[
     {
         id: 1, name: 'Rose',
         care: 'Full sunlight',
@@ -81,3 +81,4 @@
         category: 'Herb',
     },
 ];
+}
