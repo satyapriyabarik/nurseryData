@@ -126,5 +126,88 @@
             "description": "Annual herb, prefers sunny locations and well-drained soil.",
             "category": "Herb"
         }
+    ],
+    "initialFertilizers": [
+        {
+            "id": 1,
+            "name": "Organic Compost",
+            "care": "Once a month",
+            "nextFertilizing": 180000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlv-GW-mRv26cuZTaDkImR9JO2uX6ibQEjRg9Sz_trgyfD8bM19RpGb8E&s",
+            "description": "Rich in nutrients, improves soil structure and fertility.",
+            "category": "Organic"
+        },
+        {
+            "id": 2,
+            "name": "Liquid Fertilizer",
+            "care": "Twice a month",
+            "nextFertilizing": 240000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LBC0h7EyKMRtfPFvvdDFNS8zdoSuLekQ_77wjBbDFMe1SD15GQcWBTQ&s",
+            "description": "Quickly absorbed, ideal for fast-growing plants.",
+            "category": "Chemical"
+        },
+        {
+            "id": 3,
+            "name": "Bone Meal",
+            "care": "Once every two months",
+            "nextFertilizing": 300000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphwl6aXrWIEct05Ktb1Rlq9xNmoMu0eggaR82lRyZal6z8WtlJlLzxxE1S_VCVx_C2pos&s",
+            "description": "High in phosphorus, promotes strong root development.",
+            "category": "Organic"
+        },
+        {
+            "id": 4,
+            "name": "All-Purpose Fertilizer",
+            "care": "Once a month",
+            "nextFertilizing": 360000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLivLAA0TxTgYtjaNqp-mPI9VSiuoMZFj2_ou_jSs-EowGSkDw7U05Ws&s",
+            "description": "Balanced nutrients for a variety of plants.",
+            "category": "Chemical"
+        },
+        {
+            "id": 5,
+            "name": "Seaweed Extract",
+            "care": "Once a month",
+            "nextFertilizing": 420000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1eXKX3c1jHjv7gk3gkJH9F8Oa5z1F2yWQ&usqp=CAU",
+            "description": "Rich in trace minerals, enhances plant growth and stress resistance.",
+            "category": "Organic"
+        },
+        {
+            "id": 6,
+            "name": "Slow-Release Fertilizer",
+            "care": "Once every three months",
+            "nextFertilizing": 480000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1eXKX3c1jHjv7gk3gkJH9F8Oa5z1F2yWQ&usqp=CAU",
+            "description": "Provides nutrients over an extended period, reducing the need for frequent applications.",
+            "category": "Chemical"
+        },
+        {
+            "id": 7,
+            "name": "Fish Emulsion",
+            "care": "Once a month",
+            "nextFertilizing": 540000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1eXKX3c1jHjv7gk3gkJH9F8Oa5z1F2yWQ&usqp=CAU",
+            "description": "High in nitrogen, promotes lush, green growth.",
+            "category": "Organic"
+        },
+        {
+            "id": 8,
+            "name": "Epsom Salt",
+            "care": "Once a month",
+            "nextFertilizing": 600000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1eXKX3c1jHjv7gk3gkJH9F8Oa5z1F2yWQ&usqp=CAU",
+            "description": "Provides magnesium and sulfur, essential for photosynthesis and enzyme function.",
+            "category": "Chemical"
+        },
+        {
+            "id": 9,
+            "name": "Blood Meal",
+            "care": "Once every two months",
+            "nextFertilizing": 660000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1eXKX3c1jHjv7gk3gkJH9F8Oa5z1F2yWQ&usqp=CAU",
+            "description": "High in nitrogen, encourages vigorous leaf growth.",
+            "category": "Organic"
+        }
     ]
 }
