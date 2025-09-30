@@ -1,213 +1,213 @@
 {
-  "initialPlants": [
-    {
-      "id": 1,
-      "name": "Rose",
-      "care": "Full sunlight",
-      "nextWatering": 60000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQznSUipw7u1sWW24l3fer-VQ8AJzo3JAQDpw&s",
-      "description": "Beautiful red rose, requires moderate care.",
-      "category": "Flower"
-    },
-    {
-      "id": 2,
-      "name": "Tulip",
-      "care": "Partial shade",
-      "nextWatering": 120000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXKXoOaX1H3jv0Yc1mJHk2b6mXv8gkYcY9eA&s",
-      "description": "Vibrant tulip, blooms in spring with minimal care.",
-      "category": "Flower"
-    },
-    {
-      "id": 3,
-      "name": "Sunflower",
-      "care": "Full sunlight",
-      "nextWatering": 180000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuwL5oIXbxpXnI6mbp-4LimNczo5ypZKJSAETPbju5p9XG3zGGYSHTCqB8-VcJyvxGIyrt&s",
-      "description": "Tall sunflower, loves sun and requires regular watering.",
-      "category": "Flower"
-    },
-    {
-      "id": 4,
-      "name": "Cactus",
-      "care": "Bright light, minimal water",
-      "nextWatering": 300000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiwPc_ZXCRVacBU-AcmKsHyh5mgXzf3mrun7d5rE6hBGZTrJEVrS9Wg&s",
-      "description": "Low-maintenance cactus, perfect for sunny spots.",
-      "category": "Succulent"
-    },
-    {
-      "id": 5,
-      "name": "Aloe Vera",
-      "care": "Indirect sunlight, water every 3 weeks",
-      "nextWatering": 240000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjj4plxKhCG_TKzMBZx4hB5JnEcUtysjyLTGH6PPNHZMZhZa11N8QU_Yk&s",
-      "description": "Medicinal plant, easy to care for with infrequent watering.",
-      "category": "Succulent"
-    },
-    {
-      "id": 6,
-      "name": "Snake Plant",
-      "care": "Low light, water monthly",
-      "nextWatering": 360000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMJ7OonjwZ_0jlok2R-Q59gyNfbs2HXIIY02AQRKYUr1JQoRE2ACJ0XzA&s",
-      "description": "Hardy plant, thrives in low light and needs little water.",
-      "category": "Succulent"
-    },
-    {
-      "id": 7,
-      "name": "Basil",
-      "care": "Partial shade, keep soil moist",
-      "nextWatering": 150000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYsoC3IPxxbGLU3XszEffVYCMM8oFD2tt0Ea7Amor3MU-SS_kPew0Qyio&s",
-      "description": "Refreshing herb, thrives in moist soil and indirect light.",
-      "category": "Herb"
-    },
-    {
-      "id": 9,
-      "name": "Thyme",
-      "care": "Full sunlight, water sparingly",
-      "nextWatering": 210000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYsoC3IPxxbGLU3XszEffVYCMM8oFD2tt0Ea7Amor3MU-SS_kPew0Qyio&s",
-      "description": "Versatile herb, prefers dry conditions and lots of light.",
-      "category": "Herb"
-    },
-    {
-      "id": 10,
-      "name": "Lavender",
-      "care": "Full sunlight, water when soil is dry",
-      "nextWatering": 270000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSDwmyIDTmC-PKC7qqMpjWh50CBdE9gQY7fIqyR7tdQQNT6xMBR6fHIfn6Csnj_GCHGdOow&s",
-      "description": "Fragrant herb, needs well-drained soil and plenty of sun.",
-      "category": "Herb"
-    },
-    {
-      "id": 11,
-      "name": "Rosemary",
-      "care": "Full sunlight, water when soil is dry",
-      "nextWatering": 300000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSDwmyIDTmC-PKC7qqMpjWh50CBdE9gQY7fIqyR7tdQQNT6xMBR6fHIfn6Csnj_GCHGdOow&s",
-      "description": "Aromatic herb, thrives in sunny, well-drained locations.",
-      "category": "Herb"
-    },
-    {
-      "id": 12,
-      "name": "Thyme",
-      "care": "Full sunlight, water when soil is dry",
-      "nextWatering": 330000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSDwmyIDTmC-PKC7qqMpjWh50CBdE9gQY7fIqyR7tdQQNT6xMBR6fHIfn6Csnj_GCHGdOow&s",
-      "description": "Low-growing herb, prefers sunny spots and well-drained soil.",
-      "category": "Herb"
-    },
-    {
-      "id": 13,
-      "name": "Cilantro",
-      "care": "Full sunlight, water when soil is dry",
-      "nextWatering": 360000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSDwmyIDTmC-PKC7qqMpjWh50CBdE9gQY7fIqyR7tdQQNT6xMBR6fHIfn6Csnj_GCHGdOow&s",
-      "description": "Fast-growing herb, enjoys full sun and regular watering.",
-      "category": "Herb"
-    },
-    {
-      "id": 14,
-      "name": "Parsley",
-      "care": "Full sunlight, water when soil is dry",
-      "nextWatering": 390000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSDwmyIDTmC-PKC7qqMpjWh50CBdE9gQY7fIqyR7tdQQNT6xMBR6fHIfn6Csnj_GCHGdOow&s",
-      "description": "Biennial herb, thrives in full sun and moist soil.",
-      "category": "Herb"
-    },
-    {
-      "id": 15,
-      "name": "Dill",
-      "care": "Full sunlight, water when soil is dry",
-      "nextWatering": 420000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSDwmyIDTmC-PKC7qqMpjWh50CBdE9gQY7fIqyR7tdQQNT6xMBR6fHIfn6Csnj_GCHGdOow&s",
-      "description": "Annual herb, prefers sunny locations and well-drained soil.",
-      "category": "Herb"
-    }
-  ],
-  "initialFertilizers": [
-    {
-      "id": 1,
-      "name": "Organic Compost",
-      "care": "Once a month",
-      "nextFertilizing": 180000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlv-GW-mRv26cuZTaDkImR9JO2uX6ibQEjRg9Sz_trgyfD8bM19RpGb8E&s",
-      "description": "Rich in nutrients, improves soil structure and fertility.",
-      "category": "Organic"
-    },
-    {
-      "id": 2,
-      "name": "Liquid Fertilizer",
-      "care": "Twice a month",
-      "nextFertilizing": 240000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LBC0h7EyKMRtfPFvvdDFNS8zdoSuLekQ_77wjBbDFMe1SD15GQcWBTQ&s",
-      "description": "Quickly absorbed, ideal for fast-growing plants.",
-      "category": "Chemical"
-    },
-    {
-      "id": 3,
-      "name": "Bone Meal",
-      "care": "Once every two months",
-      "nextFertilizing": 300000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphwl6aXrWIEct05Ktb1Rlq9xNmoMu0eggaR82lRyZal6z8WtlJlLzxxE1S_VCVx_C2pos&s",
-      "description": "High in phosphorus, promotes strong root development.",
-      "category": "Organic"
-    },
-    {
-      "id": 4,
-      "name": "All-Purpose Fertilizer",
-      "care": "Once a month",
-      "nextFertilizing": 360000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLivLAA0TxTgYtjaNqp-mPI9VSiuoMZFj2_ou_jSs-EowGSkDw7U05Ws&s",
-      "description": "Balanced nutrients for a variety of plants.",
-      "category": "Chemical"
-    },
-    {
-      "id": 5,
-      "name": "Seaweed Extract",
-      "care": "Once a month",
-      "nextFertilizing": 420000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1eXKX3c1jHjv7gk3gkJH9F8Oa5z1F2yWQ&usqp=CAU",
-      "description": "Rich in trace minerals, enhances plant growth and stress resistance.",
-      "category": "Organic"
-    },
-    {
-      "id": 6,
-      "name": "Slow-Release Fertilizer",
-      "care": "Once every three months",
-      "nextFertilizing": 480000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1eXKX3c1jHjv7gk3gkJH9F8Oa5z1F2yWQ&usqp=CAU",
-      "description": "Provides nutrients over an extended period, reducing the need for frequent applications.",
-      "category": "Chemical"
-    },
-    {
-      "id": 7,
-      "name": "Fish Emulsion",
-      "care": "Once a month",
-      "nextFertilizing": 540000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1eXKX3c1jHjv7gk3gkJH9F8Oa5z1F2yWQ&usqp=CAU",
-      "description": "High in nitrogen, promotes lush, green growth.",
-      "category": "Organic"
-    },
-    {
-      "id": 8,
-      "name": "Epsom Salt",
-      "care": "Once a month",
-      "nextFertilizing": 600000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1eXKX3c1jHjv7gk3gkJH9F8Oa5z1F2yWQ&usqp=CAU",
-      "description": "Provides magnesium and sulfur, essential for photosynthesis and enzyme function.",
-      "category": "Chemical"
-    },
-    {
-      "id": 9,
-      "name": "Blood Meal",
-      "care": "Once every two months",
-      "nextFertilizing": 660000,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1eXKX3c1jHjv7gk3gkJH9F8Oa5z1F2yWQ&usqp=CAU",
-      "description": "High in nitrogen, encourages vigorous leaf growth.",
-      "category": "Organic"
-    }
-  ]
+    "initialPlants": [
+        {
+            "id": 1,
+            "name": "Rose",
+            "care": "Full sunlight",
+            "nextWatering": 60000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQznSUipw7u1sWW24l3fer-VQ8AJzo3JAQDpw&s",
+            "description": "Beautiful red rose, requires moderate care.",
+            "category": "Flower"
+        },
+        {
+            "id": 2,
+            "name": "Tulip",
+            "care": "Partial shade",
+            "nextWatering": 120000,
+            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHOO_kkyLrUZprSI2aJWUm3KJCfVUJAmyJrpaxeO9kaj9O44aM9hdpH6KVIuljxv_drppwtsUW1e5VUD_xQHZY7pVT1o_GoxFUrYXWFWNa",
+            "description": "Vibrant tulip, blooms in spring with minimal care.",
+            "category": "Flower"
+        },
+        {
+            "id": 3,
+            "name": "Sunflower",
+            "care": "Full sunlight",
+            "nextWatering": 180000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuwL5oIXbxpXnI6mbp-4LimNczo5ypZKJSAETPbju5p9XG3zGGYSHTCqB8-VcJyvxGIyrt&s",
+            "description": "Tall sunflower, loves sun and requires regular watering.",
+            "category": "Flower"
+        },
+        {
+            "id": 4,
+            "name": "Cactus",
+            "care": "Bright light, minimal water",
+            "nextWatering": 300000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiwPc_ZXCRVacBU-AcmKsHyh5mgXzf3mrun7d5rE6hBGZTrJEVrS9Wg&s",
+            "description": "Low-maintenance cactus, perfect for sunny spots.",
+            "category": "Succulent"
+        },
+        {
+            "id": 5,
+            "name": "Aloe Vera",
+            "care": "Indirect sunlight, water every 3 weeks",
+            "nextWatering": 240000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjj4plxKhCG_TKzMBZx4hB5JnEcUtysjyLTGH6PPNHZMZhZa11N8QU_Yk&s",
+            "description": "Medicinal plant, easy to care for with infrequent watering.",
+            "category": "Succulent"
+        },
+        {
+            "id": 6,
+            "name": "Snake Plant",
+            "care": "Low light, water monthly",
+            "nextWatering": 360000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMJ7OonjwZ_0jlok2R-Q59gyNfbs2HXIIY02AQRKYUr1JQoRE2ACJ0XzA&s",
+            "description": "Hardy plant, thrives in low light and needs little water.",
+            "category": "Succulent"
+        },
+        {
+            "id": 7,
+            "name": "Basil",
+            "care": "Partial shade, keep soil moist",
+            "nextWatering": 150000,
+            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzRDu9EC040ZfNCh8WhYU_RhHrR_r5vkX8N7dmqhhImSRKB1wZ8JuA5Y84gzmSerX-itJiWDw_yBokZq3ctz92J9NxanlQThb15jSQuZO7Ow",
+            "description": "Refreshing herb, thrives in moist soil and indirect light.",
+            "category": "Herb"
+        },
+        {
+            "id": 8,
+            "name": "Mint",
+            "care": "Partial shade, keep soil moist",
+            "nextWatering": 180000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYsoC3IPxxbGLU3XszEffVYCMM8oFD2tt0Ea7Amor3MU-SS_kPew0Qyio&s",
+            "description": "Fragrant herb, grows quickly and prefers moist conditions.",
+            "category": "Herb"
+        },
+        {
+            "id": 9,
+            "name": "Thyme",
+            "care": "Full sunlight, water sparingly",
+            "nextWatering": 210000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdr8JQmupGtlSHbdVs0jqRgpjBunLlAgfVVg&s",
+            "description": "Versatile herb, prefers dry conditions and lots of light.",
+            "category": "Herb"
+        },
+        {
+            "id": 10,
+            "name": "Lavender",
+            "care": "Full sunlight, water when soil is dry",
+            "nextWatering": 270000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSDwmyIDTmC-PKC7qqMpjWh50CBdE9gQY7fIqyR7tdQQNT6xMBR6fHIfn6Csnj_GCHGdOow&s",
+            "description": "Fragrant herb, needs well-drained soil and plenty of sun.",
+            "category": "Herb"
+        },
+        {
+            "id": 11,
+            "name": "Rosemary",
+            "care": "Full sunlight, water when soil is dry",
+            "nextWatering": 300000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZJqgCJKR-nlUotn6s0_YnXbsp1hPLuG067A&s",
+            "description": "Aromatic herb, thrives in sunny, well-drained locations.",
+            "category": "Herb"
+        },
+        {
+            "id": 12,
+            "name": "Cilantro",
+            "care": "Full sunlight, water when soil is dry",
+            "nextWatering": 360000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UFxAKqPY8FmLaE_ThUFS8_LBPA35BBoqZg&s",
+            "description": "Fast-growing herb, enjoys full sun and regular watering.",
+            "category": "Herb"
+        },
+        {
+            "id": 13,
+            "name": "Parsley",
+            "care": "Full sunlight, water when soil is dry",
+            "nextWatering": 390000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJPM1DfaKnh4g8_Kibu7tqGjREzUQINV-nw&s",
+            "description": "Biennial herb, thrives in full sun and moist soil.",
+            "category": "Herb"
+        },
+        {
+            "id": 14,
+            "name": "Dill",
+            "care": "Full sunlight, water when soil is dry",
+            "nextWatering": 420000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2WvCInO4h_c_3M7FGAns3bRcgcGA5V-pTEw&s",
+            "description": "Annual herb, prefers sunny locations and well-drained soil.",
+            "category": "Herb"
+        }
+    ],
+    "initialFertilizers": [
+        {
+            "id": 1,
+            "name": "Organic Compost",
+            "care": "Once a month",
+            "nextFertilizing": 180000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlv-GW-mRv26cuZTaDkImR9JO2uX6ibQEjRg9Sz_trgyfD8bM19RpGb8E&s",
+            "description": "Rich in nutrients, improves soil structure and fertility.",
+            "category": "Organic"
+        },
+        {
+            "id": 2,
+            "name": "Liquid Fertilizer",
+            "care": "Twice a month",
+            "nextFertilizing": 240000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LBC0h7EyKMRtfPFvvdDFNS8zdoSuLekQ_77wjBbDFMe1SD15GQcWBTQ&s",
+            "description": "Quickly absorbed, ideal for fast-growing plants.",
+            "category": "Chemical"
+        },
+        {
+            "id": 3,
+            "name": "Bone Meal",
+            "care": "Once every two months",
+            "nextFertilizing": 300000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphwl6aXrWIEct05Ktb1Rlq9xNmoMu0eggaR82lRyZal6z8WtlJlLzxxE1S_VCVx_C2pos&s",
+            "description": "High in phosphorus, promotes strong root development.",
+            "category": "Organic"
+        },
+        {
+            "id": 4,
+            "name": "All-Purpose Fertilizer",
+            "care": "Once a month",
+            "nextFertilizing": 360000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLivLAA0TxTgYtjaNqp-mPI9VSiuoMZFj2_ou_jSs-EowGSkDw7U05Ws&s",
+            "description": "Balanced nutrients for a variety of plants.",
+            "category": "Chemical"
+        },
+        {
+            "id": 5,
+            "name": "Seaweed Extract",
+            "care": "Once a month",
+            "nextFertilizing": 420000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdH6BNcyFPyVXFU5V5IiidYYsigJA1pMeaZg&s",
+            "description": "Rich in trace minerals, enhances plant growth and stress resistance.",
+            "category": "Organic"
+        },
+        {
+            "id": 6,
+            "name": "Slow-Release Fertilizer",
+            "care": "Once every three months",
+            "nextFertilizing": 480000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2scvN4TP-w9M4hi5321lur5WwEr0cbOEgpQ&s",
+            "description": "Provides nutrients over an extended period, reducing the need for frequent applications.",
+            "category": "Chemical"
+        },
+        {
+            "id": 7,
+            "name": "Fish Emulsion",
+            "care": "Once a month",
+            "nextFertilizing": 540000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSAhmDbte84LRe62u6e_Bf1lztbSQ-JRADw&s",
+            "description": "High in nitrogen, promotes lush, green growth.",
+            "category": "Organic"
+        },
+        {
+            "id": 8,
+            "name": "Epsom Salt",
+            "care": "Once a month",
+            "nextFertilizing": 600000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeRsC1dYt4BQyFSFzE5JB5JmU0XBa7vC9oJA&s",
+            "description": "Provides magnesium and sulfur, essential for photosynthesis and enzyme function.",
+            "category": "Chemical"
+        },
+        {
+            "id": 9,
+            "name": "Blood Meal",
+            "care": "Once every two months",
+            "nextFertilizing": 660000,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5K-_1yQXagmvybqzk4PQXdKrSgxbcLEjHRg&s",
+            "description": "High in nitrogen, encourages vigorous leaf growth.",
+            "category": "Organic"
+        }
+    ]
 }
