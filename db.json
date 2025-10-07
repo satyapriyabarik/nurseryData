@@ -149,8 +149,7 @@
             "nextFertilizing": 180000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlv-GW-mRv26cuZTaDkImR9JO2uX6ibQEjRg9Sz_trgyfD8bM19RpGb8E&s",
             "description": "Rich in nutrients, improves soil structure and fertility.",
-            "category": "Organic",
-            "price": 8.99
+            "category": "Organic"
         },
         {
             "id": 2,
@@ -159,8 +158,7 @@
             "nextFertilizing": 240000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LBC0h7EyKMRtfPFvvdDFNS8zdoSuLekQ_77wjBbDFMe1SD15GQcWBTQ&s",
             "description": "Quickly absorbed, ideal for fast-growing plants.",
-            "category": "Chemical",
-            "price": 12.49
+            "category": "Chemical"
         },
         {
             "id": 3,
@@ -169,8 +167,7 @@
             "nextFertilizing": 300000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphwl6aXrWIEct05Ktb1Rlq9xNmoMu0eggaR82lRyZal6z8WtlJlLzxxE1S_VCVx_C2pos&s",
             "description": "High in phosphorus, promotes strong root development.",
-            "category": "Organic",
-            "price": 10.99
+            "category": "Organic"
         },
         {
             "id": 4,
@@ -179,8 +176,7 @@
             "nextFertilizing": 360000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLivLAA0TxTgYtjaNqp-mPI9VSiuoMZFj2_ou_jSs-EowGSkDw7U05Ws&s",
             "description": "Balanced nutrients for a variety of plants.",
-            "category": "Chemical",
-            "price": 9.99
+            "category": "Chemical"
         },
         {
             "id": 5,
@@ -189,8 +185,7 @@
             "nextFertilizing": 420000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdH6BNcyFPyVXFU5V5IiidYYsigJA1pMeaZg&s",
             "description": "Rich in trace minerals, enhances plant growth and stress resistance.",
-            "category": "Organic",
-            "price": 14.99
+            "category": "Organic"
         },
         {
             "id": 6,
@@ -199,8 +194,7 @@
             "nextFertilizing": 480000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2scvN4TP-w9M4hi5321lur5WwEr0cbOEgpQ&s",
             "description": "Provides nutrients over an extended period, reducing the need for frequent applications.",
-            "category": "Chemical",
-            "price": 19.99
+            "category": "Chemical"
         },
         {
             "id": 7,
@@ -209,8 +203,7 @@
             "nextFertilizing": 540000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSAhmDbte84LRe62u6e_Bf1lztbSQ-JRADw&s",
             "description": "High in nitrogen, promotes lush, green growth.",
-            "category": "Organic",
-            "price": 11.49
+            "category": "Organic"
         },
         {
             "id": 8,
@@ -219,8 +212,7 @@
             "nextFertilizing": 600000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeRsC1dYt4BQyFSFzE5JB5JmU0XBa7vC9oJA&s",
             "description": "Provides magnesium and sulfur, essential for photosynthesis and enzyme function.",
-            "category": "Chemical",
-            "price": 6.99
+            "category": "Chemical"
         },
         {
             "id": 9,
@@ -229,8 +221,7 @@
             "nextFertilizing": 660000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5K-_1yQXagmvybqzk4PQXdKrSgxbcLEjHRg&s",
             "description": "High in nitrogen, encourages vigorous leaf growth.",
-            "category": "Organic",
-            "price": 13.49
+            "category": "Organic"
         }
     ]
 }
