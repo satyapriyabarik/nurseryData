@@ -7,7 +7,8 @@
             "nextWatering": 60000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQznSUipw7u1sWW24l3fer-VQ8AJzo3JAQDpw&s",
             "description": "Beautiful red rose, requires moderate care.",
-            "category": "Flower"
+            "category": "Flower",
+            "price": 15.99
         },
         {
             "id": 2,
@@ -16,7 +17,8 @@
             "nextWatering": 120000,
             "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHOO_kkyLrUZprSI2aJWUm3KJCfVUJAmyJrpaxeO9kaj9O44aM9hdpH6KVIuljxv_drppwtsUW1e5VUD_xQHZY7pVT1o_GoxFUrYXWFWNa",
             "description": "Vibrant tulip, blooms in spring with minimal care.",
-            "category": "Flower"
+            "category": "Flower",
+            "price": 9.99
         },
         {
             "id": 3,
@@ -25,7 +27,8 @@
             "nextWatering": 180000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuwL5oIXbxpXnI6mbp-4LimNczo5ypZKJSAETPbju5p9XG3zGGYSHTCqB8-VcJyvxGIyrt&s",
             "description": "Tall sunflower, loves sun and requires regular watering.",
-            "category": "Flower"
+            "category": "Flower",
+            "price": 12.49
         },
         {
             "id": 4,
@@ -34,7 +37,8 @@
             "nextWatering": 300000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiwPc_ZXCRVacBU-AcmKsHyh5mgXzf3mrun7d5rE6hBGZTrJEVrS9Wg&s",
             "description": "Low-maintenance cactus, perfect for sunny spots.",
-            "category": "Succulent"
+            "category": "Succulent",
+            "price": 7.99
         },
         {
             "id": 5,
@@ -43,7 +47,8 @@
             "nextWatering": 240000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjj4plxKhCG_TKzMBZx4hB5JnEcUtysjyLTGH6PPNHZMZhZa11N8QU_Yk&s",
             "description": "Medicinal plant, easy to care for with infrequent watering.",
-            "category": "Succulent"
+            "category": "Succulent",
+            "price": 10.99
         },
         {
             "id": 6,
@@ -52,7 +57,8 @@
             "nextWatering": 360000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMJ7OonjwZ_0jlok2R-Q59gyNfbs2HXIIY02AQRKYUr1JQoRE2ACJ0XzA&s",
             "description": "Hardy plant, thrives in low light and needs little water.",
-            "category": "Succulent"
+            "category": "Succulent",
+            "price": 14.99
         },
         {
             "id": 7,
@@ -61,7 +67,8 @@
             "nextWatering": 150000,
             "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzRDu9EC040ZfNCh8WhYU_RhHrR_r5vkX8N7dmqhhImSRKB1wZ8JuA5Y84gzmSerX-itJiWDw_yBokZq3ctz92J9NxanlQThb15jSQuZO7Ow",
             "description": "Refreshing herb, thrives in moist soil and indirect light.",
-            "category": "Herb"
+            "category": "Herb",
+            "price": 4.99
         },
         {
             "id": 8,
@@ -70,7 +77,8 @@
             "nextWatering": 180000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYsoC3IPxxbGLU3XszEffVYCMM8oFD2tt0Ea7Amor3MU-SS_kPew0Qyio&s",
             "description": "Fragrant herb, grows quickly and prefers moist conditions.",
-            "category": "Herb"
+            "category": "Herb",
+            "price": 3.99
         },
         {
             "id": 9,
@@ -79,7 +87,8 @@
             "nextWatering": 210000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdr8JQmupGtlSHbdVs0jqRgpjBunLlAgfVVg&s",
             "description": "Versatile herb, prefers dry conditions and lots of light.",
-            "category": "Herb"
+            "category": "Herb",
+            "price": 5.49
         },
         {
             "id": 10,
@@ -88,7 +97,8 @@
             "nextWatering": 270000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSDwmyIDTmC-PKC7qqMpjWh50CBdE9gQY7fIqyR7tdQQNT6xMBR6fHIfn6Csnj_GCHGdOow&s",
             "description": "Fragrant herb, needs well-drained soil and plenty of sun.",
-            "category": "Herb"
+            "category": "Herb",
+            "price": 8.99
         },
         {
             "id": 11,
@@ -97,7 +107,8 @@
             "nextWatering": 300000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZJqgCJKR-nlUotn6s0_YnXbsp1hPLuG067A&s",
             "description": "Aromatic herb, thrives in sunny, well-drained locations.",
-            "category": "Herb"
+            "category": "Herb",
+            "price": 6.99
         },
         {
             "id": 12,
@@ -106,7 +117,8 @@
             "nextWatering": 360000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UFxAKqPY8FmLaE_ThUFS8_LBPA35BBoqZg&s",
             "description": "Fast-growing herb, enjoys full sun and regular watering.",
-            "category": "Herb"
+            "category": "Herb",
+            "price": 4.49
         },
         {
             "id": 13,
@@ -115,7 +127,8 @@
             "nextWatering": 390000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJPM1DfaKnh4g8_Kibu7tqGjREzUQINV-nw&s",
             "description": "Biennial herb, thrives in full sun and moist soil.",
-            "category": "Herb"
+            "category": "Herb",
+            "price": 3.49
         },
         {
             "id": 14,
@@ -124,7 +137,8 @@
             "nextWatering": 420000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2WvCInO4h_c_3M7FGAns3bRcgcGA5V-pTEw&s",
             "description": "Annual herb, prefers sunny locations and well-drained soil.",
-            "category": "Herb"
+            "category": "Herb",
+            "price": 2.99
         }
     ],
     "initialFertilizers": [
@@ -135,7 +149,8 @@
             "nextFertilizing": 180000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlv-GW-mRv26cuZTaDkImR9JO2uX6ibQEjRg9Sz_trgyfD8bM19RpGb8E&s",
             "description": "Rich in nutrients, improves soil structure and fertility.",
-            "category": "Organic"
+            "category": "Organic",
+            "price": 8.99
         },
         {
             "id": 2,
@@ -144,7 +159,8 @@
             "nextFertilizing": 240000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LBC0h7EyKMRtfPFvvdDFNS8zdoSuLekQ_77wjBbDFMe1SD15GQcWBTQ&s",
             "description": "Quickly absorbed, ideal for fast-growing plants.",
-            "category": "Chemical"
+            "category": "Chemical",
+            "price": 12.49
         },
         {
             "id": 3,
@@ -153,7 +169,8 @@
             "nextFertilizing": 300000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphwl6aXrWIEct05Ktb1Rlq9xNmoMu0eggaR82lRyZal6z8WtlJlLzxxE1S_VCVx_C2pos&s",
             "description": "High in phosphorus, promotes strong root development.",
-            "category": "Organic"
+            "category": "Organic",
+            "price": 10.99
         },
         {
             "id": 4,
@@ -162,7 +179,8 @@
             "nextFertilizing": 360000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLivLAA0TxTgYtjaNqp-mPI9VSiuoMZFj2_ou_jSs-EowGSkDw7U05Ws&s",
             "description": "Balanced nutrients for a variety of plants.",
-            "category": "Chemical"
+            "category": "Chemical",
+            "price": 9.99
         },
         {
             "id": 5,
@@ -171,7 +189,8 @@
             "nextFertilizing": 420000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdH6BNcyFPyVXFU5V5IiidYYsigJA1pMeaZg&s",
             "description": "Rich in trace minerals, enhances plant growth and stress resistance.",
-            "category": "Organic"
+            "category": "Organic",
+            "price": 14.99
         },
         {
             "id": 6,
@@ -180,7 +199,8 @@
             "nextFertilizing": 480000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2scvN4TP-w9M4hi5321lur5WwEr0cbOEgpQ&s",
             "description": "Provides nutrients over an extended period, reducing the need for frequent applications.",
-            "category": "Chemical"
+            "category": "Chemical",
+            "price": 19.99
         },
         {
             "id": 7,
@@ -189,7 +209,8 @@
             "nextFertilizing": 540000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSAhmDbte84LRe62u6e_Bf1lztbSQ-JRADw&s",
             "description": "High in nitrogen, promotes lush, green growth.",
-            "category": "Organic"
+            "category": "Organic",
+            "price": 11.49
         },
         {
             "id": 8,
@@ -198,7 +219,8 @@
             "nextFertilizing": 600000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeRsC1dYt4BQyFSFzE5JB5JmU0XBa7vC9oJA&s",
             "description": "Provides magnesium and sulfur, essential for photosynthesis and enzyme function.",
-            "category": "Chemical"
+            "category": "Chemical",
+            "price": 6.99
         },
         {
             "id": 9,
@@ -207,7 +229,8 @@
             "nextFertilizing": 660000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5K-_1yQXagmvybqzk4PQXdKrSgxbcLEjHRg&s",
             "description": "High in nitrogen, encourages vigorous leaf growth.",
-            "category": "Organic"
+            "category": "Organic",
+            "price": 13.49
         }
     ]
 }
