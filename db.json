@@ -6,9 +6,18 @@
             "care": "Full sunlight",
             "nextWatering": 60000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQznSUipw7u1sWW24l3fer-VQ8AJzo3JAQDpw&s",
-            "description": "Beautiful red rose, requires moderate care.",
+            "description": "Beautiful red rose, requires moderate care. This is emmense pleaseure to fullfil my garden with so much natural fragnances.",
             "category": "Flower",
-            "price": 15.99
+            "price": 15.99,
+   "reviews": [
+    {
+      "userName": "Priya",
+      "rating": 5,
+      "title": "Healthy and beautiful!",
+      "comment": "The plant arrived well-packed and fresh. It looks great in my living room!",
+      
+    }
+  ]
         },
         {
             "id": 2,
@@ -16,9 +25,19 @@
             "care": "Partial shade",
             "nextWatering": 120000,
             "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHOO_kkyLrUZprSI2aJWUm3KJCfVUJAmyJrpaxeO9kaj9O44aM9hdpH6KVIuljxv_drppwtsUW1e5VUD_xQHZY7pVT1o_GoxFUrYXWFWNa",
-            "description": "Vibrant tulip, blooms in spring with minimal care.",
+            "description": "Vibrant tulip, blooms in spring with minimal care. Pleasantful garden with joyful memories to craete.",
             "category": "Flower",
-            "price": 9.99
+            "price": 9.99,
+			
+   "reviews": [
+    {
+      
+      "userName": "Barsha",
+      "rating": 5,
+      "title": "Naturally Awesome",
+      "comment": "The best plant in my collections!",
+    }
+  ]
         },
         {
             "id": 3,
@@ -26,9 +45,20 @@
             "care": "Full sunlight",
             "nextWatering": 180000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuwL5oIXbxpXnI6mbp-4LimNczo5ypZKJSAETPbju5p9XG3zGGYSHTCqB8-VcJyvxGIyrt&s",
-            "description": "Tall sunflower, loves sun and requires regular watering.",
+            "description": "Tall sunflower, loves sun and requires regular watering. Sunny always a chaming beauty in flowers.",
             "category": "Flower",
-            "price": 12.49
+            "price": 12.49,
+			
+   "reviews": [
+    {
+     
+      "userName": "Anamika",
+      "rating": 5,
+      "title": "Healthy and beautiful!",
+      "comment": "The plant arrived well-packed and fresh. It looks great in my living room!",
+      
+    }
+  ]
         },
         {
             "id": 4,
@@ -36,9 +66,20 @@
             "care": "Bright light, minimal water",
             "nextWatering": 300000,
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiwPc_ZXCRVacBU-AcmKsHyh5mgXzf3mrun7d5rE6hBGZTrJEVrS9Wg&s",
-            "description": "Low-maintenance cactus, perfect for sunny spots.",
+            "description": "Low-maintenance cactus, perfect for sunny spots. Unforgettable feelings while planted in my garden.",
             "category": "Succulent",
-            "price": 7.99
+            "price": 7.99,
+			
+   "reviews": [
+    {
+      
+      "userName": "Sunita",
+      "rating": 5,
+      "title": "Awesome and pleasnatful!",
+      "comment": "The plant arrived well-packed and fresh. It looks great in my living room!"
+      
+    }
+  ]
         },
         {
             "id": 5,
@@ -48,7 +89,18 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjj4plxKhCG_TKzMBZx4hB5JnEcUtysjyLTGH6PPNHZMZhZa11N8QU_Yk&s",
             "description": "Medicinal plant, easy to care for with infrequent watering.",
             "category": "Succulent",
-            "price": 10.99
+            "price": 10.99,
+			
+   "reviews": [
+    {
+      
+      "userName": "Sutapa",
+      "rating": 5,
+      "title": "Healthy and beautiful!",
+      "comment": "The plant arrived wih happiness. It looks great in my balcony!"
+      
+    }
+  ]
         },
         {
             "id": 6,
@@ -58,8 +110,18 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMJ7OonjwZ_0jlok2R-Q59gyNfbs2HXIIY02AQRKYUr1JQoRE2ACJ0XzA&s",
             "description": "Hardy plant, thrives in low light and needs little water.",
             "category": "Succulent",
-            "price": 14.99
-        },
+            "price": 14.99,
+			
+   "reviews": [
+    {
+     
+      "userName": "Josna",
+      "rating": 5,
+      "title": "Healthy and beautiful!",
+      "comment": "The plant arrived well-packed and fresh. It looks great in my garden!"
+      
+    }
+  ] },
         {
             "id": 7,
             "name": "Basil",
@@ -68,7 +130,18 @@
             "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzRDu9EC040ZfNCh8WhYU_RhHrR_r5vkX8N7dmqhhImSRKB1wZ8JuA5Y84gzmSerX-itJiWDw_yBokZq3ctz92J9NxanlQThb15jSQuZO7Ow",
             "description": "Refreshing herb, thrives in moist soil and indirect light.",
             "category": "Herb",
-            "price": 4.99
+            "price": 4.99,
+			
+   "reviews": [
+    {
+      
+      "userName": "Priya",
+      "rating": 5,
+      "title": "Healthy and beautiful!",
+      "comment": "The plant arrived well-packed and fresh. It looks great in my living room!",
+      
+    }
+  ]
         },
         {
             "id": 8,
@@ -78,7 +151,18 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYsoC3IPxxbGLU3XszEffVYCMM8oFD2tt0Ea7Amor3MU-SS_kPew0Qyio&s",
             "description": "Fragrant herb, grows quickly and prefers moist conditions.",
             "category": "Herb",
-            "price": 3.99
+            "price": 3.99,
+			
+   "reviews": [
+    {
+     
+      "userName": "Mira",
+      "rating": 3,
+      "title": "Healthy and beautiful!",
+      "comment": "The plant arrived fresh. It looks great in my living study room!"
+      
+    }
+  ]
         },
         {
             "id": 9,
@@ -88,7 +172,19 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdr8JQmupGtlSHbdVs0jqRgpjBunLlAgfVVg&s",
             "description": "Versatile herb, prefers dry conditions and lots of light.",
             "category": "Herb",
-            "price": 5.49
+            "price": 5.49,
+			
+   "reviews": [
+    {
+     
+      "userName": "Niharika",
+      "rating":3,
+      "title": "Cool and beautiful!",
+      "comment": "The plant arrived well-packed and fresh. It looks great in my living room!",
+      
+    }
+  ],
+  
         },
         {
             "id": 10,
@@ -98,7 +194,19 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSDwmyIDTmC-PKC7qqMpjWh50CBdE9gQY7fIqyR7tdQQNT6xMBR6fHIfn6Csnj_GCHGdOow&s",
             "description": "Fragrant herb, needs well-drained soil and plenty of sun.",
             "category": "Herb",
-            "price": 8.99
+            "price": 8.99,
+			
+   "reviews": [
+    {
+     
+      "userName": "Jashmin",
+      "rating": 4,
+      "title": "Healthy and Pretty!",
+      "comment": "The plant arrived well-packed and fresh. It looks great in my bath room!",
+      
+    }
+  ],
+  
         },
         {
             "id": 11,
@@ -108,7 +216,19 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZJqgCJKR-nlUotn6s0_YnXbsp1hPLuG067A&s",
             "description": "Aromatic herb, thrives in sunny, well-drained locations.",
             "category": "Herb",
-            "price": 6.99
+            "price": 6.99,
+			
+   "reviews": [
+    {
+     
+      "userName": "Bani",
+      "rating": 3,
+      "title": "Awesome and beautiful!",
+      "comment": "The plant arrived well-packed and fresh. It looks great in my living room!",
+     
+    }
+  ],
+  
         },
         {
             "id": 12,
@@ -118,7 +238,19 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UFxAKqPY8FmLaE_ThUFS8_LBPA35BBoqZg&s",
             "description": "Fast-growing herb, enjoys full sun and regular watering.",
             "category": "Herb",
-            "price": 4.49
+            "price": 4.49,
+			
+   "reviews": [
+    {
+      
+      "userName": "Priyanka",
+      "rating": 5,
+      "title": "Healthy and beautiful!",
+      "comment": "The plant arrived well-packed and fresh. It looks great in my kitchen!",
+      
+    }
+  ],
+ 
         },
         {
             "id": 13,
@@ -128,7 +260,19 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJPM1DfaKnh4g8_Kibu7tqGjREzUQINV-nw&s",
             "description": "Biennial herb, thrives in full sun and moist soil.",
             "category": "Herb",
-            "price": 3.49
+            "price": 3.49,
+			
+		 "reviews": [
+    {
+      
+      "userName": "Neha",
+      "rating": 5,
+      "title": "Healthy and beautiful!",
+      "comment": "The plant arrived well-packed and fresh. It looks great in my living room!",
+      
+    }
+  ]
+  
         },
         {
             "id": 14,
@@ -138,7 +282,19 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2WvCInO4h_c_3M7FGAns3bRcgcGA5V-pTEw&s",
             "description": "Annual herb, prefers sunny locations and well-drained soil.",
             "category": "Herb",
-            "price": 2.99
+            "price": 2.99,
+			
+   "reviews": [
+    {
+      
+      "userName": "Kirti",
+      "rating": 5,
+      "title": "Healthy and fantastic",
+      "comment": "The plant arrived well-packed and fresh. It looks great in my living room!",
+      
+    }
+  ],
+  
         }
     ]
 }
