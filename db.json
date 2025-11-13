@@ -5,7 +5,7 @@
             "name": "Rose",
             "care": "Full sunlight",
             "nextWatering": 60000,
-            "image": "https://raw.githubusercontent.com/satyapriyabarik/next-shopping-app/refs/heads/main/src/images/rose.webp",
+            "image": "/images/rose.webp",
             "description": "Beautiful red rose, requires moderate care. This is emmense pleaseure to fullfil my garden with so much natural fragnances.",
             "category": "Flower",
             "price": 345.99,
